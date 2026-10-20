@@ -28,7 +28,7 @@ Analyzed portfolio optimization and financial risk using Value at Risk (VaR), Ex
 [Repository:]
 (https://github.com/Elias-0002/DNSC-6330---Responsible-Machine-Learning)
 
-Developed and evaluated supervised learning models—including regularized regression, K-nearest neighbors, regression trees, Random Forest, GAMs, and Explainable Boosting Machines—to predict high-priced loans. Used stratified k-fold cross-validation and interpretability techniques such as SHAP, partial dependence, and ICE plots to examine model performance and feature effects.
+Developed and evaluated supervised learning models including regularized regression, K-nearest neighbors, regression trees, Random Forest, GAMs, and Explainable Boosting Machines-to predict high-priced loans. Used stratified k-fold cross-validation and interpretability techniques such as SHAP, partial dependence, and ICE plots to examine model performance and feature effects.
  
 
 ## Technical Skills
